@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gsuitedevs/apps-script-samples) 
+
 # Google Apps Script Samples [![Build Status](https://travis-ci.org/gsuitedevs/apps-script-samples.svg?branch=master)](https://travis-ci.org/gsuitedevs/apps-script-samples)
 
 Various sample code and projects for the Google Apps Script platform, a JavaScript platform in the cloud.
